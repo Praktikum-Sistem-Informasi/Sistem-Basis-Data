@@ -1,4 +1,4 @@
-# Sistem Basis Data - Pertemuan 5: JOIN Lanjutan (Bagian 1)
+# Sistem Basis Data - Pertemuan 6: JOIN Lanjutan (Bagian 1)
 
 ## 📌 Deskripsi
 Deskripsi singkat materi/topik yang dibahas pada pertemuan ini.
